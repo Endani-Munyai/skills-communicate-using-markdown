@@ -5,3 +5,6 @@
 # <h5> header size 5
 # <h6> header size 6:smallest
 plaintext
+
+# <h1> Image
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)

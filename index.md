@@ -8,3 +8,16 @@ plaintext
 
 # <h1> Image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+# <h1> code previews
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+``` javascript
+var myVar = "Hello, world!";
+```
+``` c
+int dummy = 1
+```
